@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "c5mHb+j1X2o88K+rGqv8/llqZaRYT/uYzBSMtfaTKBc=",
+  "Source": "openaiservices",
+  "BasePath": "_content/openaiservices",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

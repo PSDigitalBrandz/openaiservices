@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "openaiservices.Controllers.ChatController",
+    "Method": "PostMessage",
+    "RelativePath": "api/Chat/PostMessage",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "messages",
+        "Type": "System.Collections.Generic.List\u00601[[openaiservices.Message, openaiservices, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
