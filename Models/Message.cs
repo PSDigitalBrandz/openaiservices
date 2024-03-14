@@ -1,4 +1,4 @@
-namespace openaiservices
+namespace openaiservices.Models
 {
     public class Message
     {

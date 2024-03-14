@@ -1,0 +1,41 @@
+# Ignore Visual Studio files
+.vs/
+
+# Ignore user-specific files and directories
+*.suo
+*.user
+*.sln.docstates
+
+# Ignore NuGet packages folder
+packages/
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore Visual Studio files
+*.vscode/
+*.sln
+*.csproj.user
+*.vcxproj.user
+*.pdb
+
+# Ignore ReSharper files
+_ReSharper*/
+*.ReSharper*/
+
+# Ignore dotnet core files
+.vscode/
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.user
+*.json
+*.suo
+*.cache
+*.log
+*.vs
+node_modules/
+*.lock.json

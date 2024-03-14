@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "messages",
-        "Type": "System.Collections.Generic.List\u00601[[openaiservices.Message, openaiservices, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.List\u00601[[openaiservices.Models.Message, openaiservices, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "IsRequired": true
       }
     ],

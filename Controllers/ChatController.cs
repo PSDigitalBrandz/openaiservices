@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using openaiservices.Models;
 using openaiservices.Services;
 
 namespace openaiservices.Controllers
